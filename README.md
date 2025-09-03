@@ -1,6 +1,7 @@
-# 🖼️ Image Format Detector (C++)
+# 🖼️ Image Format Detector
 
-A simple C++ program I wrote during my early college years to detect **image file formats** based on their magic numbers (file signatures).
+A simple C++ program I built during my **2nd year of college (2023–2024)** to practice binary file handling.  
+It detects common **image file formats** based on their magic numbers (file signatures).
 
 ## 🚀 Features
 - Detects common image formats:
@@ -28,5 +29,5 @@ g++ main.cpp -o ImageFormateDetector
 
 ## 📖 Notes
 
-This was one of my early C++ projects back in college (3rd year).
-I kept it here to document my learning journey and share a simple example of working with file I/O in C++.
+- This was one of my early C++ projects back in college (3rd year).
+- I kept it here to document my learning journey and share a simple example of working with file I/O in C++.
